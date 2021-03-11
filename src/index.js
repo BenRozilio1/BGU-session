@@ -6,7 +6,7 @@ import './style/main.css'
 import configureStore from './redux/store/configure-store'
 //comment tt
 const store = configureStore()
-
+//commm
 render(
   <Provider store={store}>
     <Page />
