@@ -119,7 +119,7 @@ body {
   border: 1px solid #9b6470;
 }
 .ng-invalid.ng-dirty {
-  border-color: #d9230f;
+  border-color: #639;
 }
 .ng-valid.ng-dirty {
   border-color: #468847;
@@ -157,4 +157,4 @@ body {
   background-color: #1f55ce;
   border-color: #1f55ce;
 }
-/*# sourceMappingURL=main.56d261f8.chunk.css.map */
+/*# sourceMappingURL=main.2514ff1d.chunk.css.map */
