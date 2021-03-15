@@ -157,7 +157,7 @@ body {
 }
 
 .ng-invalid.ng-dirty {
-  border-color: #d9230f;
+  border-color: rebeccapurple;
 }
 
 .ng-valid.ng-dirty {
